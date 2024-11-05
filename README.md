@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **elnurykh@code.edu.az**
 
-- ⚡ Fun fact **In Korea, my friend usually calls me “아디티아 예준” (read: Aditya Yejun)**
+- ⚡ Fun fact **In Korea, my friend usually calls me Yejun (예준)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
