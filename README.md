@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raden Adhitya</h1>
 <h3 align="center">A passionate AI Engineer developer from Indonesia</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif">
+<img align="right" alt="Coding" width="200" src="https://miro.medium.com/max/1360/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif">
 
 - 🔭 I’m currently working at **multinational tech companies**
 
