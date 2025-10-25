@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working at **multinational tech companies**
 
-- 🌱 I’m currently learning **AI with GenAI Capabilities**
+- 🌱 Empower business with **GenAI Capabilities**
 
 - ⚡ Fun fact **In Korea, my friend usually calls me Yejun (예준)**
 
