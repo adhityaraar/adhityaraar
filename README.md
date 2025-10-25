@@ -9,10 +9,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://adhityaraar.github.io/" target="_blank">
+  <a href="https://adhityaraar.github.io/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/svg/1f4ac.svg" alt="adhityaraar.github.io" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/adhityaraar" target="_blank">
+  <a href="https://linkedin.com/in/adhityaraar" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adhityaraar" height="30" width="40" />
   </a>
 </p>
