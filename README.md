@@ -7,16 +7,12 @@
 - 🌍 Dedicated to building intelligent, scalable AI systems  
 - ⚡ Fun fact: In Korea, my friends call me **Yejun (예준)** 
 
----
-
-<h3 align="left">🌐 Portfolio & Profiles:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://adhityaraar.github.io/" target="_blank">
-    <img align="center" src="https://img.icons8.com/fluency/48/domain.png" alt="Website" height="30" width="30" />
+    <img align="center" src="https://img.icons8.com/fluency/48/domain.png" alt="adhityaraar.github.io" height="30" width="40" />
   </a>
   <a href="https://linkedin.com/in/adhityaraar" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adhityaraar" height="30" width="40" />
   </a>
 </p>
-
----
