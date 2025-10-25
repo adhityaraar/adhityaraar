@@ -1,4 +1,4 @@
-<h1 align="center">Hi! My name Raden <b>Adhit</b>ya Ardiansyah Ramadhan</h1>
+<h1 align="center">Hi! My name Raden <b>Adhit</b>ya</h1>
 <h3 align="center">A passionate AI Engineer developer from Indonesia 🇮🇩
 </h3> <img align="right" alt="Coding" width="300" src="https://miro.medium.com/max/1360/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif">
 
