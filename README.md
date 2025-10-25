@@ -3,7 +3,7 @@
 </h3> <img align="right" alt="Coding" width="300" src="https://miro.medium.com/max/1360/1*nWQ_U5NKEfNeGCTfh_2-Mw.gif">
 
 
-- 🔭 Currently working at a **multinational tech company**
+- 🔭 Currently working at a **multinational tech company** <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" alt="IBM Logo" width="50" style="vertical-align:middle; margin-right:6px;"/> <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Accenture.svg" alt="Accenture Logo" width="70" style="vertical-align:middle;"/> 
 - 🤖 Empowering businesses with **Generative AI capabilities**
 - 🌍 Dedicated to building intelligent, scalable AI systems
 - ⚡ Fun fact: In Korea, my friends call me **Yejun (예준)**
